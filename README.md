@@ -1,9 +1,6 @@
 # java-test-0001-final-16431-shivani
 Final Project Assignment - This repository contains the complete final project code and documentation.
 ```java
-  public class Pattern {
-    public static void main(String[] args) {
-        int n = 5;
    public class Pattern {
     public static void main(String[] args) {
         int n = 5;
