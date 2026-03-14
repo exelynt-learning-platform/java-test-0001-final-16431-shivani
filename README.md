@@ -1,9 +1,12 @@
 # java-test-0001-final-16431-shivani
 Final Project Assignment - This repository contains the complete final project code and documentation.
 ```java
-  public class PatternPrinter {
+  public class Pattern {
     public static void main(String[] args) {
-        int n = 5; 
+        int n = 5;
+public class Pattern {
+    public static void main(String[] args) {
+        int n = 5;
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n - i; j++) {
                 System.out.print(" ");
