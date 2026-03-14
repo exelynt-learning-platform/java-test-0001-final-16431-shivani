@@ -4,7 +4,7 @@ Final Project Assignment - This repository contains the complete final project c
   public class Pattern {
     public static void main(String[] args) {
         int n = 5;
-public class Pattern {
+   public class Pattern {
     public static void main(String[] args) {
         int n = 5;
         for (int i = 1; i <= n; i++) {
